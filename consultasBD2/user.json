@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Juan",
+        "lastName": "Perez",
+        "phone": 23388,
+        "active": true,
+        "address": {
+            "street": "French",
+            "number": 400
+        }
+    },
+    {
+        "id": 2,
+        "name": "Pedro",
+        "lastName": "Paez",
+        "phone": 24499,
+        "active": true,
+        "address": {
+            "street": "Av. San Martin",
+            "number": 300
+        }
+    },
+    {
+        "id": 3,
+        "name": "Gabriel",
+        "lastName": "Díaz",
+        "phone": 23389,
+        "active": true,
+        "address": {
+            "street": "Alem",
+            "number": 185
+        }
+    },
+    {
+        "id": 3,
+        "name": "Gabriel",
+        "lastName": "Díaz",
+        "phone": 23389,
+        "active": true,
+        "address": {
+            "street": "Alem",
+            "number": 185
+        }
+    },
+    {
+        "id": 3,
+        "name": "Gabriel",
+        "lastName": "Díaz",
+        "phone": 23389,
+        "active": true,
+        "address": {
+            "street": "Alem",
+            "number": 185
+        }
+    }
+]
